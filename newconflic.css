@@ -1,0 +1,18 @@
+body{ 
+    margin: 5% auto;
+    width: 40%;
+    text-align: center  
+     }
+
+.a{background:paleturquoise;
+    
+}
+
+.b{
+    background:lightcoral;
+    color:blue;
+}
+
+.c{
+    background:peachpuff;
+}
